@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\data\\databasehelpes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:data\\databasehelpes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\models\\itemvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:models\\itemvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseHelpes.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Data\\DatabaseHelpes.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseHelpes.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Data\\DatabaseHelpes.cs",
+              "RelativeToolTip": "Data\\DatabaseHelpes.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:10:25.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemVenda.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\ItemVenda.cs",
+              "RelativeDocumentMoniker": "Models\\ItemVenda.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\ItemVenda.cs",
+              "RelativeToolTip": "Models\\ItemVenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:08:58.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\Venda.cs",
+              "RelativeDocumentMoniker": "Models\\Venda.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\Venda.cs",
+              "RelativeToolTip": "Models\\Venda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:08:50.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:08:45.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:08:25.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
