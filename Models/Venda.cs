@@ -10,6 +10,7 @@ namespace SistemaGerenciamentoClientesProdutos.Models
     {
         public int VendaID { get; set; }
         public int ClienteID { get; set; }
+        public int Quantidade { get; set; }
         public DateTime DataVenda { get; set; }
     }
 }

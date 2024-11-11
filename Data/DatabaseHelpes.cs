@@ -11,23 +11,11 @@ namespace SistemaGerenciamentoClientesProdutos.Data
 {
     public class DatabaseHelper
     {
-        private readonly string connectionString = "Host=localhost;Port=5432;Username=postgres;Password=DBAEverton;Database=SistemaGerenciamento";
-
-        public DatabaseHelper(string connectionString)
-        {
-            this.connectionString = connectionString;
-        }
-
-        // Método para abrir e fechar conexões automaticamente
-        private NpgsqlConnection GetConnection()
-        {
-            return new NpgsqlConnection(connectionString);
-        }
-
+        
         // Métodos para Clientes
         public void AddCliente(string nome, string endereco, string telefone, string email)
         {
-            using (var conn = GetConnection())
+            using (var conn = DatabaseConfig.GetConnection())
             {
                 conn.Open();
                 string query = "INSERT INTO clientes (nome, endereco, telefone, email) VALUES (@Nome, @Endereco, @Telefone, @Email)";
@@ -44,7 +32,7 @@ namespace SistemaGerenciamentoClientesProdutos.Data
 
         public void UpdateCliente(int id, string nome, string endereco, string telefone, string email)
         {
-            using (var conn = GetConnection())
+            using (var conn = DatabaseConfig.GetConnection())
             {
                 conn.Open();
                 string query = "UPDATE clientes SET nome = @Nome, endereco = @Endereco, telefone = @Telefone, email = @Email WHERE id = @Id";
@@ -62,7 +50,7 @@ namespace SistemaGerenciamentoClientesProdutos.Data
 
         public void DeleteCliente(int id)
         {
-            using (var conn = GetConnection())
+            using (var conn = DatabaseConfig.GetConnection())
             {
                 conn.Open();
                 string query = "DELETE FROM clientes WHERE id = @Id";
@@ -76,7 +64,7 @@ namespace SistemaGerenciamentoClientesProdutos.Data
 
         public DataTable GetClientes()
         {
-            using (var conn = GetConnection())
+            using (var conn = DatabaseConfig.GetConnection())
             {
                 conn.Open();
                 string query = "SELECT * FROM clientes";
@@ -93,7 +81,7 @@ namespace SistemaGerenciamentoClientesProdutos.Data
         // Métodos para Produtos
         public void AddProduto(string nome, string descricao, decimal preco, int estoque)
         {
-            using (var conn = GetConnection())
+            using (var conn = DatabaseConfig.GetConnection())
             {
                 conn.Open();
                 string query = "INSERT INTO produtos (nome, descricao, preco, estoque) VALUES (@Nome, @Descricao, @Preco, @Estoque)";
@@ -110,7 +98,7 @@ namespace SistemaGerenciamentoClientesProdutos.Data
 
         public void UpdateProduto(int id, string nome, string descricao, decimal preco, int estoque)
         {
-            using (var conn = GetConnection())
+            using (var conn = DatabaseConfig.GetConnection())
             {
                 conn.Open();
                 string query = "UPDATE produtos SET nome = @Nome, descricao = @Descricao, preco = @Preco, estoque = @Estoque WHERE id = @Id";
@@ -128,7 +116,7 @@ namespace SistemaGerenciamentoClientesProdutos.Data
 
         public void DeleteProduto(int id)
         {
-            using (var conn = GetConnection())
+            using (var conn = DatabaseConfig.GetConnection())
             {
                 conn.Open();
                 string query = "DELETE FROM produtos WHERE id = @Id";
@@ -142,7 +130,7 @@ namespace SistemaGerenciamentoClientesProdutos.Data
 
         public DataTable GetProdutos()
         {
-            using (var conn = GetConnection())
+            using (var conn = DatabaseConfig.GetConnection())
             {
                 conn.Open();
                 string query = "SELECT * FROM produtos";
@@ -159,10 +147,10 @@ namespace SistemaGerenciamentoClientesProdutos.Data
         // Métodos para Vendas
         public void AddVenda(int clienteId, int produtoId, int quantidade, DateTime dataVenda)
         {
-            using (var conn = GetConnection())
+            using (var conn = DatabaseConfig.GetConnection())
             {
                 conn.Open();
-                string query = "INSERT INTO vendas (cliente_id, produto_id, quantidade, data_venda) VALUES (@ClienteId, @ProdutoId, @Quantidade, @DataVenda)";
+                string query = "INSERT INTO vendas (clienteid, produtoid, qtproduto, datavenda) VALUES (@ClienteId, @ProdutoId, @Quantidade, @DataVenda)";
                 using (var cmd = new NpgsqlCommand(query, conn))
                 {
                     cmd.Parameters.AddWithValue("@ClienteId", clienteId);
@@ -176,7 +164,7 @@ namespace SistemaGerenciamentoClientesProdutos.Data
 
         public DataTable GetVendas()
         {
-            using (var conn = GetConnection())
+            using (var conn = DatabaseConfig.GetConnection())
             {
                 conn.Open();
                 string query = "SELECT * FROM vendas";
@@ -193,7 +181,7 @@ namespace SistemaGerenciamentoClientesProdutos.Data
         // Relatório de Estoque
         public DataTable GetRelatorioEstoque()
         {
-            using (var conn = GetConnection())
+            using (var conn = DatabaseConfig.GetConnection())
             {
                 conn.Open();
                 string query = "SELECT nome, descricao, estoque FROM produtos";
@@ -210,13 +198,13 @@ namespace SistemaGerenciamentoClientesProdutos.Data
         // Relatório de Vendas por Cliente
         public DataTable GetRelatorioVendasPorCliente(int clienteId)
         {
-            using (var conn = GetConnection())
+            using (var conn = DatabaseConfig.GetConnection())
             {
                 conn.Open();
-                string query = @"SELECT vendas.data_venda, produtos.nome, vendas.quantidade
+                string query = @"SELECT vendas.datavenda, produtos.nome, vendas.qtproduto
                                  FROM vendas
-                                 INNER JOIN produtos ON vendas.produto_id = produtos.id
-                                 WHERE vendas.cliente_id = @ClienteId";
+                                 INNER JOIN produtos ON vendas.produtoid = produtos.id
+                                 WHERE vendas.clienteid = @ClienteId";
                 using (var cmd = new NpgsqlCommand(query, conn))
                 {
                     cmd.Parameters.AddWithValue("@ClienteId", clienteId);

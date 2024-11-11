@@ -3,18 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SistemaGerenciamentoClientesProdutos||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\data\\databasehelpes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:data\\databasehelpes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\forms\\formvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:forms\\formvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\forms\\formvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:forms\\formvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\forms\\formprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:forms\\formprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\forms\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:forms\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\models\\itemvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:models\\itemvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,42 +54,146 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SistemaGerenciamentoClientesProdutos",
-              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\SistemaGerenciamentoClientesProdutos.csproj",
-              "RelativeDocumentMoniker": "SistemaGerenciamentoClientesProdutos.csproj",
-              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\SistemaGerenciamentoClientesProdutos.csproj",
-              "RelativeToolTip": "SistemaGerenciamentoClientesProdutos.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-11T17:03:50.355Z",
+              "DocumentIndex": 4,
+              "Title": "Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Inicial.cs",
+              "RelativeDocumentMoniker": "Inicial.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Inicial.cs",
+              "RelativeToolTip": "Inicial.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAwwCIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:35:40.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Inicial.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Inicial.cs",
+              "RelativeDocumentMoniker": "Inicial.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Inicial.cs [Design]",
+              "RelativeToolTip": "Inicial.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T16:57:42.056Z"
+              "WhenOpened": "2024-11-11T18:28:49.78Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormVendas.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormVendas.cs",
+              "RelativeDocumentMoniker": "Forms\\FormVendas.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormVendas.cs",
+              "RelativeToolTip": "Forms\\FormVendas.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:58:28.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormVendas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormVendas.cs",
+              "RelativeDocumentMoniker": "Forms\\FormVendas.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormVendas.cs [Design]",
+              "RelativeToolTip": "Forms\\FormVendas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:34:27.638Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormProdutos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormProdutos.cs",
+              "RelativeDocumentMoniker": "Forms\\FormProdutos.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormProdutos.cs [Design]",
+              "RelativeToolTip": "Forms\\FormProdutos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:34:12.949Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormClientes.cs",
+              "RelativeDocumentMoniker": "Forms\\FormClientes.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormClientes.cs [Design]",
+              "RelativeToolTip": "Forms\\FormClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:33:52.016Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseHelpes.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Data\\DatabaseHelpes.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseHelpes.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Data\\DatabaseHelpes.cs",
+              "RelativeToolTip": "Data\\DatabaseHelpes.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAwKAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:10:25.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemVenda.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\ItemVenda.cs",
+              "RelativeDocumentMoniker": "Models\\ItemVenda.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\ItemVenda.cs",
+              "RelativeToolTip": "Models\\ItemVenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:08:58.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\Venda.cs",
+              "RelativeDocumentMoniker": "Models\\Venda.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\Venda.cs",
+              "RelativeToolTip": "Models\\Venda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:08:50.354Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T16:54:16.892Z"
+              "WhenOpened": "2024-11-11T17:08:45.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:08:25.829Z",
+              "EditorCaption": ""
             }
           ]
         }
