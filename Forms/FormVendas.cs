@@ -24,8 +24,8 @@ namespace SistemaGerenciamentoClientesProdutos.Forms
         private void BtnSalvar_Click(object sender, EventArgs e)
         {
             // Captura os dados do formulário
-            int clienteId = Convert.ToInt32(CBCliente.SelectedValue); // Supondo que você tenha o ID do cliente no ComboBox
-            int produtoId = Convert.ToInt32(CBProduto.SelectedValue); // Supondo que você tenha o ID do produto no ComboBox
+            int clienteId = Convert.ToInt32(CBCliente.SelectedValue); 
+            int produtoId = Convert.ToInt32(CBProduto.SelectedValue); 
             int quantidade = int.Parse(TxtQuantidade.Text);
             DateTime dataVenda = DTVenda.Value;
 

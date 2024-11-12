@@ -44,3 +44,4 @@ C:\Users\Everton\source\repos\SistemaGerenciamentoClientesProdutos\obj\Debug\Sis
 C:\Users\Everton\source\repos\SistemaGerenciamentoClientesProdutos\obj\Debug\SistemaGerenciamentoClientesProdutos.exe
 C:\Users\Everton\source\repos\SistemaGerenciamentoClientesProdutos\obj\Debug\SistemaGerenciamentoClientesProdutos.pdb
 C:\Users\Everton\source\repos\SistemaGerenciamentoClientesProdutos\obj\Debug\SistemaGerenciamentoClientesProdutos.Inicial.resources
+C:\Users\Everton\source\repos\SistemaGerenciamentoClientesProdutos\obj\Debug\SistemaGerenciamentoClientesProdutos.Forms.FormProdutos.resources

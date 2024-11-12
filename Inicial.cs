@@ -20,12 +20,16 @@ namespace SistemaGerenciamentoClientesProdutos
 
         private void BtnClientes_Click(object sender, EventArgs e)
         {
+            FormClientes formClientes = new FormClientes();
 
+            formClientes.Show();
         }
 
         private void BtnProdutos_Click(object sender, EventArgs e)
         {
+            FormProdutos formProdutos = new FormProdutos();
 
+            formProdutos.Show();
         }
 
         private void BtnVendas_Click(object sender, EventArgs e)
