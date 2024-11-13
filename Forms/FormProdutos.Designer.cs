@@ -229,7 +229,7 @@
             this.Controls.Add(this.TxtNome);
             this.Controls.Add(this.LblNome);
             this.Name = "FormProdutos";
-            this.Text = "FormProdutos";
+            this.Text = "Produtos";
             ((System.ComponentModel.ISupportInitialize)(this.GVProdutos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

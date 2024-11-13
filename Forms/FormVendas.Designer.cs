@@ -160,7 +160,7 @@
             this.Controls.Add(this.CBCliente);
             this.Controls.Add(this.LblCliente);
             this.Name = "FormVendas";
-            this.Text = "FormVendas";
+            this.Text = "Vendas";
             ((System.ComponentModel.ISupportInitialize)(this.GVvendas)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
