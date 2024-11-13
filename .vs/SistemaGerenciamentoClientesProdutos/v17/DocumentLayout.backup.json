@@ -3,28 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\forms\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:forms\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\data\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:data\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\forms\\formprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:forms\\formprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E45B9B5-55DC-414B-A735-8836C515AD01}|..\\Projeto.Tests\\Projeto.Tests.csproj|c:\\users\\everton\\source\\repos\\projeto.tests\\databasehelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\forms\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:forms\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\forms\\formprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:forms\\formprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\forms\\formvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:forms\\formvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\forms\\formvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:forms\\formvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|c:\\users\\everton\\source\\repos\\sistemagerenciamentoclientesprodutos\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4C16F-DF6D-4FA1-B1BC-0489453FBC0B}|SistemaGerenciamentoClientesProdutos.csproj|solutionrelative:data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +21,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormVendas.cs",
-              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormVendas.cs",
-              "RelativeDocumentMoniker": "Forms\\FormVendas.cs",
-              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormVendas.cs",
-              "RelativeToolTip": "Forms\\FormVendas.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDgAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DatabaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Data\\DatabaseConfig.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseConfig.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Data\\DatabaseConfig.cs",
+              "RelativeToolTip": "Data\\DatabaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:58:28.338Z",
+              "WhenOpened": "2024-11-13T18:06:43.082Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormVendas.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormVendas.cs",
-              "RelativeDocumentMoniker": "Forms\\FormVendas.cs",
-              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormVendas.cs [Design]",
-              "RelativeToolTip": "Forms\\FormVendas.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:34:27.638Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormProdutos.cs",
-              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormProdutos.cs",
-              "RelativeDocumentMoniker": "Forms\\FormProdutos.cs",
-              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormProdutos.cs",
-              "RelativeToolTip": "Forms\\FormProdutos.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAMAAAAAAAAAAAAAAA==",
+              "Title": "DatabaseHelperTests.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\Projeto.Tests\\DatabaseHelperTests.cs",
+              "RelativeDocumentMoniker": "..\\Projeto.Tests\\DatabaseHelperTests.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\Projeto.Tests\\DatabaseHelperTests.cs",
+              "RelativeToolTip": "..\\Projeto.Tests\\DatabaseHelperTests.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:42:23.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormProdutos.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormProdutos.cs",
-              "RelativeDocumentMoniker": "Forms\\FormProdutos.cs",
-              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormProdutos.cs [Design]",
-              "RelativeToolTip": "Forms\\FormProdutos.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:34:12.949Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormClientes.cs",
-              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormClientes.cs",
-              "RelativeDocumentMoniker": "Forms\\FormClientes.cs",
-              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormClientes.cs*",
-              "RelativeToolTip": "Forms\\FormClientes.cs*",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAuwLUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T16:32:08.4Z",
+              "WhenOpened": "2024-11-13T17:39:22.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FormClientes.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormClientes.cs",
-              "RelativeDocumentMoniker": "Forms\\FormClientes.cs",
-              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Forms\\FormClientes.cs [Design]*",
-              "RelativeToolTip": "Forms\\FormClientes.cs [Design]*",
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Data\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\Everton\\source\\repos\\SistemaGerenciamentoClientesProdutos\\Data\\DatabaseHelper.cs",
+              "RelativeToolTip": "Data\\DatabaseHelper.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAwwJQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:33:52.016Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-13T17:25:41.313Z",
+              "EditorCaption": ""
             }
           ]
         }

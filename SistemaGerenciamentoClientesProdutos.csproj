@@ -97,7 +97,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\DatabaseConfig.cs" />
-    <Compile Include="Data\DatabaseHelpes.cs" />
+    <Compile Include="Data\DatabaseHelper.cs" />
     <Compile Include="Inicial.cs">
       <SubType>Form</SubType>
     </Compile>

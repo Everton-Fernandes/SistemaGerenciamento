@@ -11,7 +11,6 @@ namespace SistemaGerenciamentoClientesProdutos.Data
 {
     public class DatabaseHelper
     {
-        
         // Métodos para Clientes
         public void AddCliente(string nome, string endereco, string telefone, string email)
         {
